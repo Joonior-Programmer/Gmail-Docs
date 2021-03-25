@@ -67,8 +67,8 @@ search:
 ```yaml
 # Aux links for the upper right navigation
 aux_links:
-  "Just the Docs on GitHub":
-    - "//github.com/pmarsceill/just-the-docs"
+  "Gmail Docs on GitHub":
+    - "//github.com/Joonior-Programmer/Gmail-Docs"
 
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: false
