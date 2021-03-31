@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Configuration
+title: Creating Categories/Labeling (starring) Emails
 nav_order: 2
 ---
 
