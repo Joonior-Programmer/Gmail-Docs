@@ -18,21 +18,55 @@ Gmail is Google’s free to use email system that is available to every google a
 
 ---
 
-## Getting started
-
-### Dependencies
+### Table of Contents
 
 Just the Docs is built for [Jekyll](https://jekyllrb.com), a static site generator. View the [quick start guide](https://jekyllrb.com/docs/) for more information. Just the Docs requires no special plugins and can run on GitHub Pages' standard Jekyll compiler. The [Jekyll SEO Tag plugin](https://github.com/jekyll/jekyll-seo-tag) is included by default (no need to run any special installation) to inject SEO and open graph metadata on docs pages. For information on how to configure SEO and open graph metadata visit the [Jekyll SEO Tag usage guide](https://jekyll.github.io/jekyll-seo-tag/usage/).
 
-### Quick start: Use as a GitHub Pages remote theme
+### Is This Guide For You
 
-1. Add Just the Docs to your Jekyll site's `_config.yml` as a [remote theme](https://blog.github.com/2017-11-29-use-any-theme-with-github-pages/)
-```yaml
-remote_theme: pmarsceill/just-the-docs
-```
-<small>You must have GitHub Pages enabled on your repo, one or more Markdown files, and a `_config.yml` file. [See an example repository](https://github.com/pmarsceill/jtd-remote)</small>
+The guide is for beginner Gmail users who have basic sending and receiving email understanding. 
 
-### Local installation: Use the gem-based theme
+Everything discussed in this documentation will be for the Windows and Mac version of Gmail. Layouts and settings may differ if you are using iOS or Android. This guide will provide easy-to-understand instructions to understand and manipulate these features to your needs. By the end of this document you will be able to:
+
+Automate emails/signature blocks
+Effectively search for emails
+Customize/personalize your Gmail
+Use Add-ons/Built in google products
+Create a safe environment for sending and receiving emails
+
+
+### When It Is Written (Software version)
+Web Version April 2021
+
+### Prerequisite
+
+The user must have a Google Account to access Gmail.
+
+The user should use the latest version of Chrome, FireFox, Edge, and Safari. 
+Note: IE11 is no longer to be supported.
+
+### Brief History
+
+Gmail is a free mail service that was released by Google on April 1, 2004, originally as an invitation-only email service. In addition to winning several awards, Forbes magazine also declared that it was the best webmail application for small business in 2006. Over the years, the user base and features have expanded greatly, reaching 1.5 billion active users in October 2019. 
+
+Currently, it is a powerful tool that grants the user a high degree of customizability for their email needs. Integrations with Google’s other products such as Calendar, as well as third party add-ons grant every user a tailored experience. Its presence on mobile devices as an app also gives it great portability, especially as it’s the default mail app for android devices. 
+
+### Why Learn Gmail
+
+If you are a worker or businessman, you will need to send a lot of emails every day.
+Therefore, learning how to customize and automate Gmail will help you to reduce workload.
+
+### Typographical Convention
+
+...
+
+### Conclusion
+
+Gmail’s extensive suite of features are often overlooked, thus making people think it is just a mediocre email system. However, Gmail is one of the most powerful email systems especially when used with other Google apps. 
+
+With all this said, let us begin teaching these lesser known features. Creating Categories is a good place to start reading.
+
+### ------------------------------
 
 1. Install the Ruby Gem
 ```bash
