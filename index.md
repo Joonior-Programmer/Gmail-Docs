@@ -14,11 +14,13 @@ Gmail is Google’s free to use email system that is available to every google a
 
 ---
 
-### Table of Contents
+# Table of Contents
 
 ...
 
-### Is This Guide For You
+---
+
+# Is This Guide For You
 
 The guide is for beginner Gmail users who have basic sending and receiving email understanding. 
 
@@ -30,37 +32,50 @@ Customize/personalize your Gmail
 Use Add-ons/Built in google products
 Create a safe environment for sending and receiving emails
 
+---
 
-### When It Is Written (Software version)
+# When It Is Written (Software version)
 Web Version April 2021
 
-### Prerequisite
+---
+
+# Prerequisite
 
 The user must have a Google Account to access Gmail.
 
 The user should use the latest version of Chrome, FireFox, Edge, and Safari. 
 Note: IE11 is no longer to be supported.
 
-### Brief History
+---
+
+# Brief History
 
 Gmail is a free mail service that was released by Google on April 1, 2004, originally as an invitation-only email service. In addition to winning several awards, Forbes magazine also declared that it was the best webmail application for small business in 2006. Over the years, the user base and features have expanded greatly, reaching 1.5 billion active users in October 2019. 
 
 Currently, it is a powerful tool that grants the user a high degree of customizability for their email needs. Integrations with Google’s other products such as Calendar, as well as third party add-ons grant every user a tailored experience. Its presence on mobile devices as an app also gives it great portability, especially as it’s the default mail app for android devices. 
 
-### Why Learn Gmail
+---
+
+# Why Learn Gmail
 
 If you are a worker or businessman, you will need to send a lot of emails every day.
 Therefore, learning how to customize and automate Gmail will help you to reduce workload.
 
-### Typographical Convention
+---
+
+# Typographical Convention
 
 ...
 
-### Conclusion
+---
+
+# Conclusion
 
 Gmail’s extensive suite of features are often overlooked, thus making people think it is just a mediocre email system. However, Gmail is one of the most powerful email systems especially when used with other Google apps. 
 
 With all this said, let us begin teaching these lesser known features. Creating Categories is a good place to start reading.
+
+---
 
 ### ------------------------------
 
