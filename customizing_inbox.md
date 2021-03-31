@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Creating Categories/Labeling (starring) Emails
+title: Customizing Inbox Types/Labeling Emails
 nav_order: 2
 ---
 
