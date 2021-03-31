@@ -6,10 +6,12 @@ description: "Gmail Docs is a responsive Jekyll theme with built-in search that 
 permalink: /
 ---
 
-# Focus on writing good documentation
+# Introduction
 {: .fs-9 }
 
-Just the Docs gives your documentation a jumpstart with a responsive Jekyll theme that is easily customizable and hosted on GitHub Pages.
+This document is for people who know the basic workings of sending and receiving emails through Gmail, but do not know how to use any of its lesser known features. Each section is a broad category that is split up into smaller features within.
+
+Gmail is Google’s free to use email system that is available to every google account. This email system can be very powerful if used properly as it can be used with many other google products. This documentation will provide some instructions on some powerful functions, so they  can use Gmail to its fullest extent.
 {: .fs-6 .fw-300 }
 
 [Get started now](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View it on GitHub](https://github.com/pmarsceill/just-the-docs){: .btn .fs-5 .mb-4 .mb-md-0 }
