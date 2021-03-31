@@ -7,14 +7,10 @@ permalink: /
 ---
 
 # Introduction
-{: .fs-9 }
 
 This document is for people who know the basic workings of sending and receiving emails through Gmail, but do not know how to use any of its lesser known features. Each section is a broad category that is split up into smaller features within.
 
 Gmail is Google’s free to use email system that is available to every google account. This email system can be very powerful if used properly as it can be used with many other google products. This documentation will provide some instructions on some powerful functions, so they  can use Gmail to its fullest extent.
-{: .fs-6 .fw-300 }
-
-[Get started now](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View it on GitHub](https://github.com/pmarsceill/just-the-docs){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ---
 
@@ -130,3 +126,9 @@ email, or any other method with the owners of this repository before making a ch
 Just the Docs is committed to fostering a welcoming community.
 
 [View our Code of Conduct](https://github.com/pmarsceill/just-the-docs/tree/master/CODE_OF_CONDUCT.md) on our GitHub repository.
+
+
+[Get started now](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View it on GitHub](https://github.com/pmarsceill/just-the-docs){: .btn .fs-5 .mb-4 .mb-md-0 }
+
+{: .fs-6 .fw-300 }
+{: .fs-9 }
