@@ -7,6 +7,7 @@ permalink: /
 ---
 
 # Introduction
+{:.no_toc}
 
 This document is for people who know the basic workings of sending and receiving emails through Gmail, but do not know how to use any of its lesser known features. Each section is a broad category that is split up into smaller features within.
 
@@ -16,8 +17,9 @@ Gmail is Google’s free to use email system that is available to every google a
 
 # Table of Contents
 
-{:.no_toc.text-delta }
--TOC{:toc}
+{: .no_toc .text-delta }
+*TOC
+{:toc}
 ---
 
 # Is This Guide For You
