@@ -73,7 +73,7 @@ Therefore, learning how to customize and automate Gmail will help you to reduce 
 
 Gmail’s extensive suite of features are often overlooked, thus making people think it is just a mediocre email system. However, Gmail is one of the most powerful email systems especially when used with other Google apps. 
 
-With all this said, let us begin teaching these lesser known features. Creating Categories is a good place to start reading.
+With all this said, let us begin teaching these lesser known features. [Basics](https://joonior-programmer.github.io/Gmail-Docs/docs/basics/) is a good place to start reading.
 
 ---
 
