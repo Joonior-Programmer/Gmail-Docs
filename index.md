@@ -67,7 +67,7 @@ Therefore, learning how to customize and automate Gmail will help you to reduce 
 
 | Text Font         | Meaning        | Example                     |
 | ----------------- | -------------- | --------------------------- | 
-| **Bolded Words**  | button names   | *click* on **All Settings** |
+| **Bolded Words**  | button names   | *Click* on **All Settings** |
 | *Italic Words*    | actions        | *Press* on the cogwheel     |
 | ```Block Words``` | category names | *Find* ```Images```         |
 ---
