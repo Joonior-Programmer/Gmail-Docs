@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Customization
+title: Basics
 nav_order: 7
 ---
 
