@@ -16,8 +16,8 @@ Gmail is Google’s free to use email system that is available to every google a
 
 # Table of Contents
 
-...
-
+{:.no_toc.text-delta }
+-TOC{:toc}
 ---
 
 # Is This Guide For You
