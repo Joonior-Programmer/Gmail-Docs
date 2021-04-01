@@ -65,8 +65,9 @@ Therefore, learning how to customize and automate Gmail will help you to reduce 
 
 # Typographical Convention
 
-...
-
+**Bolded Words** : button names
+*Italic Words* : actions
+```Block Words``` : category names
 ---
 
 # Conclusion
